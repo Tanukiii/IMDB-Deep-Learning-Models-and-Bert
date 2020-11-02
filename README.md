@@ -3,6 +3,16 @@
 
 This is a tutorial of Deep Learning model(DNN,LSTM) and Bert(Ktrain)for Sentimental analysis.
 
+Here, I provide data visualization and 4 models
+
+## 1.Deep Neurak Network model with TF-IDF tokenizer
+
+## 2.Deep Neurak Network model with USEM(Universal Sentence Encoding)
+
+## 3.RNN model(LSTM)
+
+## 4.Bert(K-train);but I recommend Googlecolab
+
 
 This initially appeared on
 [My blog](https://tanuki.blog) in Japanese, but as
