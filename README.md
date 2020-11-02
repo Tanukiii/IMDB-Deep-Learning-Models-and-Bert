@@ -1,23 +1,30 @@
 # Sentimental Analysis(感情分析) in IMDB 
-# Deep Learning Models(DNN,LSTM) and Bert for Sentimental Analysis
+# Deep Learning (DNN,LSTM) and Bert for Sentimental Analysis
 
 This is a tutorial of Deep Learning model(DNN,LSTM) and Bert(Ktrain)for Sentimental analysis.
 
-Here, I provide data visualization and 4 models
+Here, I provide the data visualization and 4 models
 
-## 1.Deep Neurak Network model with TF-IDF tokenizer
+このレポジトリーはディープラーニングモデル（DNN、LSTM,Bert）を用いた感情分析のチュートリアルとなっています。
 
-## 2.Deep Neurak Network model with USEM(Universal Sentence Encoding)
+ここではデータ分析と４つのモデルを提供しています
 
-## 3.RNN model(LSTM)
+### 1.Deep Neurak Network model with TF-IDF tokenizer
 
-## 4.Bert(K-train);but I recommend Googlecolab
+### 2.Deep Neurak Network model with USEM(Universal Sentence Encoding)
+
+### 3.RNN model(LSTM)
+
+### 4.Bert(K-train);but I recommend Googlecolab
 
 
-This initially appeared on
-[My blog](https://tanuki.blog) in Japanese, but as
-I can no longer open that page as there are too many comments, I have
-moved it here.
+I introduce the above models on
+[My blog](https://tanuki.blog) (written  Japanese), so please check it.
+
+Anyhow, lets's move on
+
+僕の[ブログ](https://tanuki.blog)にても、こちらのプロジェクトを紹介しておりますのでよければ見てください！
+
 
 ## Summary
 
