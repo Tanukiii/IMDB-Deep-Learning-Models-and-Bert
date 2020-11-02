@@ -1,8 +1,10 @@
 # IMDB :Deep Learning Models and Bert for Sentimental Analysis
-One Paragraph of project description goes here
+
+This is a tutorial of Deep Learning model(DNN,LSTM) and Bert(Ktrain)for Sentimental analysis.
+
 
 This initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
+[My blog](https://tanuki.blog) in Japanese, but as
 I can no longer open that page as there are too many comments, I have
 moved it here.
 
