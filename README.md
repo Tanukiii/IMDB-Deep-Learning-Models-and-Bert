@@ -21,14 +21,14 @@ Here, I provide the data visualization and 4 models
 I introduce the above models on
 [My blog](https://tanuki.blog) (written  Japanese), so please check it.
 
-Anyhow, lets's move on
+Anyhow, lets's move on!
 
 僕の[ブログ](https://tanuki.blog)にても、こちらのプロジェクトを紹介しておりますのでよければ見てください！
 
 
 ## Summary
 
-  - [Getting Started](#getting-started)
+  - [IMDB](#IMDB)
   - [Runing the tests](#running-the-tests)
   - [Deployment](#deployment)
   - [Built With](#built-with)
@@ -38,7 +38,7 @@ Anyhow, lets's move on
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
-## Getting Started
+## IMDB
 
 These instructions will get you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
