@@ -1,4 +1,5 @@
-# IMDB :Deep Learning Models and Bert for Sentimental Analysis
+# Sentimental Analysis(感情分析) in IMDB 
+# Deep Learning Models(DNN,LSTM) and Bert for Sentimental Analysis
 
 This is a tutorial of Deep Learning model(DNN,LSTM) and Bert(Ktrain)for Sentimental analysis.
 
