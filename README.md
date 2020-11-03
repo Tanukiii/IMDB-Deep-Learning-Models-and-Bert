@@ -61,9 +61,14 @@ for notes on how to deploy the project on a live system.
 
 ## Model
 
-What things you need to install the software and how to install them
+1.Deep Neurak Network model with TF-IDF tokenizer
 
-    Give examples
+2.Deep Neurak Network model with USEM(Universal Sentence Encoding)
+
+3.RNN model(LSTM)
+
+4.Bert(K-train)
+
 
 ## Bert
 
