@@ -75,7 +75,7 @@ After downloading and mounting the csv file, install ktrain on google colab
 ## Result
 
 | Accuracy | Model |
-| --- | --- |
+| --- | :--- |
 | git status | Deep Neurak Network model with TF-IDF tokenizer |
 | git diff | Deep Neurak Network model with USEM |
 | git status | RNN model(LSTM) |
@@ -84,7 +84,7 @@ After downloading and mounting the csv file, install ktrain on google colab
 
 ## Reference 
 
-  - [IMDb](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/):Data set
+  - [IMDb](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/): Data set
   
   - [USEM](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3/): Tensorflow hub
   
