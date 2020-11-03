@@ -26,16 +26,32 @@ Anyhow, lets's move on!
 僕の[ブログ](https://tanuki.blog)にて、このプロジェクトとモデルの内容を詳しく説明しておりますのでよければ見てください！
 
 
-## Summary
+## Summary Installation
 
+  - [Installation](#Installation)
   - [IMDB](#IMDB)
   - [Model](#Model)
   - [Bert](#Bert)
+  - [Reference](#Reference)
   - [Reference and Useful Links](#Reference and Useful Links)
-  - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
+
+
+## Installation
+Python 3.6.8
+
+tensorflow 2.3.1
+
+tensorflow-datasets 3.2.1
+
+tensorflow-hub 0.6.0
+
+tensorflow-text 2.3.0
+
+
+
 
 ## IMDB
 
@@ -61,7 +77,7 @@ Say what the step will be
 And repeat
 
 
-## Reference and Useful Links 
+## Reference 
 
   - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
     for the Code of Conduct
