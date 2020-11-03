@@ -23,14 +23,14 @@ I introduce the above models on
 
 Anyhow, lets's move on!
 
-僕の[ブログ](https://tanuki.blog)にても、こちらのプロジェクトを紹介しておりますのでよければ見てください！
+僕の[ブログ](https://tanuki.blog)にて、このプロジェクトとモデルの内容を詳しく説明しておりますのでよければ見てください！
 
 
 ## Summary
 
   - [IMDB](#IMDB)
-  - [Runing the tests](#running-the-tests)
-  - [Deployment](#deployment)
+  - [Model](#Model)
+  - [Bert](#deployment)
   - [Built With](#built-with)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
@@ -38,33 +38,29 @@ Anyhow, lets's move on!
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
-## IMDB
+### IMDB
 
 These instructions will get you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
 for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Model
 
 What things you need to install the software and how to install them
 
     Give examples
 
-### Installing
+### Bert
 
 A step by step series of examples that tell you how to get a development
 env running
 
 Say what the step will be
 
-    Give the example
+    !pip3 install ktrain
 
 And repeat
 
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
 
 ## Running the tests
 
