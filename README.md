@@ -33,22 +33,19 @@ Anyhow, lets's move on!
   - [Model](#Model)
   - [Bert](#Bert)
   - [Reference](#Reference)
-  - [Reference and Useful Links](#Reference and Useful Links)
-  - [Authors](#authors)
-  - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
 
 ## Installation
-Python 3.6.8
+- Python 3.6.8
 
-tensorflow 2.3.1
+- tensorflow 2.3.1
 
-tensorflow-datasets 3.2.1
+- tensorflow-datasets 3.2.1
 
-tensorflow-hub 0.6.0
+- tensorflow-hub 0.6.0
 
-tensorflow-text 2.3.0
+- tensorflow-text 2.3.0
 
 
 
@@ -72,42 +69,23 @@ for notes on how to deploy the project on a live system.
 
 ## Bert
 
-A step by step series of examples that tell you how to get a development
-env running
-
-Say what the step will be
+After downloading and mounting the csv file, install ktrain on google colab
 
     !pip3 install ktrain
-
-And repeat
 
 
 ## Reference 
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+  - [IMDb](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/) 
+  - [USEM](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3/) 
+  
+  - [Creative Commons](https://creativecommons.org/) 
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
-## Authors
-
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
