@@ -32,8 +32,8 @@ Anyhow, lets's move on!
   - [IMDB](#IMDB)
   - [Model](#Model)
   - [Bert](#Bert)
+  - [Result](#Result)
   - [Reference](#Reference)
-  - [Acknowledgments](#acknowledgments)
 
 
 ## Installation
@@ -72,6 +72,12 @@ After downloading and mounting the csv file, install ktrain on google colab
     !pip3 install ktrain
 
 
+## Result
+
+  - Hat tip to anyone whose code was used
+  - Inspiration
+  - etc
+
 ## Reference 
 
   - [IMDb](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/) 
@@ -79,10 +85,6 @@ After downloading and mounting the csv file, install ktrain on google colab
   
   - [Creative Commons](https://creativecommons.org/) 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
 
 
 ## License
@@ -91,8 +93,3 @@ This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
 
-## Acknowledgments
-
-  - Hat tip to anyone whose code was used
-  - Inspiration
-  - etc
