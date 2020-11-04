@@ -34,6 +34,7 @@ Anyhow, lets's move on!
   - [Bert](#Bert)
   - [Result](#Result)
   - [Reference](#Reference)
+  - [Notes](#Notes)
 
 
 ## Installation
@@ -78,7 +79,7 @@ After downloading and mounting the csv file, install ktrain on google colab
 | --- | :--- |
 | 0.9060 | Deep Neurak Network model with TF-IDF tokenizer |
 | 0.8026 | Deep Neurak Network model with USEM |
-| git status | RNN model(LSTM) |
+| 0.8447 | RNN model(LSTM) |
 | git diff | Bert(K-train) |
 
 
@@ -91,3 +92,9 @@ After downloading and mounting the csv file, install ktrain on google colab
   - [Ktrain](https://github.com/amaiya/ktrain/): Ktrain
   
   - [Creative Commons](https://creativecommons.org/) 
+  
+  ## Notes
+  Suddenly Deep Neurak Network model with USEM doesn't work because I can't use USE.Now, I'm finding the reason.
+  
+  After fixing the part, I'll rewrite the part.
+
