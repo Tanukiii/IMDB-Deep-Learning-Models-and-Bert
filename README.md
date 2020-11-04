@@ -80,7 +80,7 @@ After downloading and mounting the csv file, install ktrain on google colab
 | 0.9060 | Deep Neurak Network model with TF-IDF tokenizer |
 | 0.8026 | Deep Neurak Network model with USEM |
 | 0.8447 | RNN model(LSTM) |
-| git diff | Bert(K-train) |
+| 0.9362 | Bert(K-train) |
 
 
 ## Reference 
