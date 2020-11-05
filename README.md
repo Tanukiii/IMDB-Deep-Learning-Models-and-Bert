@@ -96,5 +96,5 @@ After downloading and mounting the csv file, install ktrain on google colab
   ## Notes
   Suddenly Deep Neurak Network model with USEM doesn't work because I can't use USE.Now, I'm finding the reason.
   
-  After fixing the part, I'll rewrite the part.
+  After fixing, I'll rewrite the part as soon as possible .
 
